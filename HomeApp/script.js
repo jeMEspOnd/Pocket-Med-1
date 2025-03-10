@@ -29,7 +29,7 @@ $(document).ready(function () {
                 price: '$18.50',
                 contact: '123-987-6543',
                 rating: 4.6,
-                imageUrl: '/images/medicine-3308108.jpg' // New image
+                imageUrl: '/HomeApp/medicine-3308108.jpg' // New image
             },
             {
                 name: 'Probiotic Digestive Support',
@@ -37,7 +37,7 @@ $(document).ready(function () {
                 price: '$25.00',
                 contact: '987-123-4567',
                 rating: 4.9,
-                imageUrl: '/images/health-846862_1280.jpg' // New image
+                imageUrl: '/HomeApp/health-846862_1280.jpg' // New image
             },
             {
                 name: 'Melatonin Sleep Aid',
@@ -45,7 +45,7 @@ $(document).ready(function () {
                 price: '$12.75',
                 contact: '555-678-9012',
                 rating: 4.3,
-                imageUrl: '/images/health-846862_1280.jpg' // New image
+                imageUrl: '/HomeApp/health-846862_1280.jpg' // New image
             },
             {
                 name: 'Collagen Skin & Hair Vitamins',
@@ -53,7 +53,7 @@ $(document).ready(function () {
                 price: '$30.00',
                 contact: '111-222-3333',
                 rating: 4.7,
-                imageUrl: '/images/medicine-3308108.jpg' // New image
+                imageUrl: '/HomeApp/medicine-3308108.jpg' // New image
             },
             {
                 name: 'Iron Supplement Tablets',
@@ -61,7 +61,7 @@ $(document).ready(function () {
                 price: '$9.99',
                 contact: '444-555-6666',
                 rating: 4.1,
-                imageUrl: '/images/medicine-8287535.jpg' // New image
+                imageUrl: '/HomeApp/medicine-8287535.jpg' // New image
             },
             {
                 name: 'Vitamin D3 Capsules',
@@ -69,7 +69,7 @@ $(document).ready(function () {
                 price: '$14.25',
                 contact: '777-888-9999',
                 rating: 4.5,
-                imageUrl: '/images/health-846862_1280.jpg' // New image
+                imageUrl: '/HomeApp/health-846862_1280.jpg' // New image
             },
             {
                 name: 'Calcium with Magnesium',
@@ -77,7 +77,7 @@ $(document).ready(function () {
                 price: '$22.50',
                 contact: '100-200-3000',
                 rating: 4.8,
-                imageUrl: '/images/medications-257336_1280.jpg' // New image
+                imageUrl: '/HomeApp/medications-257336_1280.jpg' // New image
             },
             {
                 name: 'CoQ10 Heart Health',
@@ -85,7 +85,7 @@ $(document).ready(function () {
                 price: '$28.00',
                 contact: '400-500-6000',
                 rating: 4.4,
-                imageUrl: '/images/medicine-2207622_1280.jpg' // New image
+                imageUrl: '/HomeApp/medicine-2207622_1280.jpg' // New image
             },
             {
                 name: 'Biotin Hair Growth',
@@ -93,7 +93,7 @@ $(document).ready(function () {
                 price: '$16.90',
                 contact: '700-800-9000',
                 rating: 4.2,
-                imageUrl: '/images/medicine-2449607_1280.jpg' // New image
+                imageUrl: '/HomeApp/medicine-2449607_1280.jpg' // New image
             },
             {
                 name: 'Turmeric Curcumin Capsules',
@@ -101,7 +101,7 @@ $(document).ready(function () {
                 price: '$19.75',
                 contact: '123-789-4560',
                 rating: 4.6,
-                imageUrl: '/images/medicine-2449619_1280.jpg'// new image
+                imageUrl: '/HomeApp/medicine-2449619_1280.jpg'// new image
             },
             {
                 name: 'Elderberry Immune Support',
@@ -109,7 +109,7 @@ $(document).ready(function () {
                 price: '$15.50',
                 contact: '123-456-7893',
                 rating: 4.7,
-                imageUrl: '/images/tablets-5620566.jpg' // new image
+                imageUrl: '/HomeApp/tablets-5620566.jpg' // new image
             },
             {
                 name: 'Magnesium Citrate Powder',
@@ -117,7 +117,7 @@ $(document).ready(function () {
                 price: '$11.25',
                 contact: '987-654-3213',
                 rating: 4.3,
-                imageUrl: '/images/tablets-5620566.jpg' // New image
+                imageUrl: '/HomeApp/tablets-5620566.jpg' // New image
             },
             {
                 name: 'Zinc Lozenges',
@@ -125,7 +125,7 @@ $(document).ready(function () {
                 price: '$8.99',
                 contact: '555-123-4570',
                 rating: 4.1,
-                imageUrl: '/images/medicine-2449619_1280.jpg' // New image
+                imageUrl: '/HomeApp/medicine-2449619_1280.jpg' // New image
             },
             {
                 name: 'Vitamin B12 Sublingual',
@@ -133,7 +133,7 @@ $(document).ready(function () {
                 price: '$17.00',
                 contact: '111-222-3336',
                 rating: 4.5,
-                imageUrl: '/images/medicine-3308108.jpg' // New image
+                imageUrl: '/HomeApp/medicine-3308108.jpg' // New image
             },
             {
                 name: 'Potassium Chloride Tablets',
@@ -141,7 +141,7 @@ $(document).ready(function () {
                 price: '$13.50',
                 contact: '444-555-6669',
                 rating: 4.4,
-                imageUrl: '/images/medicine-3308108.jpg' // New image
+                imageUrl: '/HomeApp/medicine-3308108.jpg' // New image
             },
             {
                 name: 'Vitamin E Oil Capsules',
@@ -149,7 +149,7 @@ $(document).ready(function () {
                 price: '$21.00',
                 contact: '777-888-9998',
                 rating: 4.8,
-                imageUrl: '/images/medicine-8287535.jpg' // New image
+                imageUrl: '/HomeApp/medicine-8287535.jpg' // New image
             },
             {
                 name: 'Selenium Supplement',
@@ -157,7 +157,7 @@ $(document).ready(function () {
                 price: '$10.50',
                 contact: '100-200-3003',
                 rating: 4.2,
-                imageUrl: '/images/health-846862_1280.jpg' // New image
+                imageUrl: '/HomeApp/health-846862_1280.jpg' // New image
             },
             {
                 name: 'Folic Acid Tablets',
@@ -165,7 +165,7 @@ $(document).ready(function () {
                 price: '$9.50',
                 contact: '400-500-6003',
                 rating: 4.6,
-                imageUrl: '/images/medications-257336_1280.jpg' // New image
+                imageUrl: '/HomeApp/medications-257336_1280.jpg' // New image
             },
             {
                 name: 'Vitamin K2 Capsules',
@@ -173,7 +173,7 @@ $(document).ready(function () {
                 price: '$23.75',
                 contact: '700-800-9003',
                 rating: 4.9,
-                imageUrl: '/images/medicine-2207622_1280.jpg' // New image
+                imageUrl: '/HomeApp/medicine-2207622_1280.jpg' // New image
             },
             {
                 name: 'Choline Bitartrate',
@@ -181,7 +181,7 @@ $(document).ready(function () {
                 price: '$18.25',
                 contact: '123-789-4561',
                 rating: 4.7,
-                imageUrl: '/images/medicine-2449607_1280.jpg' // New image
+                imageUrl: '/HomeApp/medicine-2449607_1280.jpg' // New image
             }
         ];
 
@@ -205,7 +205,7 @@ $(document).ready(function () {
                 <div class="col-md-4 col-sm-6 col-12 mb-4">
                     <div class="product-card">
                         <div class="product-image">
-                            <img src="${item.imageUrl}" alt="${item.name}" onerror="this.onerror=null;this.src='/images/placeholder.png';">
+                            <img src="${item.imageUrl}" alt="${item.name}" onerror="this.onerror=null;">
                         </div>
                         <div class="product-details">
                             <h3 class="product-name">${item.name}</h3>
