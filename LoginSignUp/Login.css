@@ -1,0 +1,129 @@
+.background-radial-gradient {
+    background: linear-gradient(135deg, #2980b9, #6dd5fa);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.bg-glass {
+    background-color: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(10px);
+    border-radius: 1rem;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    padding: 2.5rem;
+}
+
+.form-control {
+    border: 1px solid #ddd;
+    border-radius: 0.5rem;
+    padding: 0.6rem 1rem;
+    transition: border-color 0.3s ease;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+
+.form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.btn-primary {
+    background: linear-gradient(to right, #007bff, #63b3ed);
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+    font-weight: 600;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn-primary:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0, 123, 255, 0.3);
+}
+
+.login-signup-container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.form-container h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #333;
+}
+
+.social-login-buttons {
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+.nav-tabs .nav-link {
+    color: #555;
+    transition: color 0.3s ease;
+}
+
+.nav-tabs .nav-link.active {
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form-label {
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+.input-group-text {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-right: none;
+    padding: 0.6rem 1rem;
+}
+
+.input-group {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-check-label {
+    color: #555;
+}
+
+.text-muted {
+    font-size: 0.9rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 992px) {
+    .login-signup-container {
+        padding: 20px;
+    }
+    .col-lg-6 {
+        width: 100%;
+    }
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+    .hero p {
+        font-size: 1rem;
+    }
+    .bg-glass {
+        padding: 1.5rem;
+    }
+
+    #bloodGroup{
+        max-width: 100%;
+    }
+}
+@media (max-width: 768px){
+    .login-signup-container{
+        padding: 10px;
+    }
+}
